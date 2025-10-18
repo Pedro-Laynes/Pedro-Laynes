@@ -2,7 +2,8 @@
 - 🔬 Biólogo con experiencia en Biología Molecular.
 - 🧫 Estudiante de maestría en Microbiología Molecular (UNMSM).
 - 💻 Aprendiendo R, Python y GitHub para bioinformática.
-- 🧠 Interés en filogenia y evolución de parásitos anisákidos.
+- 🧠 Interés en filogenia de parásitos anisakidos, y
+  analisis de perfiles genéticos para pruebas de parentesco.
 
 ## ⚙️ Tech Stack
 R • Python • Bash • Git • Linux • Biopython • tidyverse
