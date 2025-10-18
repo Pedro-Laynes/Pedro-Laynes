@@ -6,9 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=800&height=100&lines=Biólogo+con+experiencia+en+Biología+Molecular.;Estudiante+de+Maestría+en+Microbiología+Molecular+(UNMSM).;Aprendiendo+R,+Python+y+GitHub+para+Bioinformática.;Interés+en+Filogenia+de+Parásitos+Anisákidos.;Análisis+de+Perfiles+Genéticos+para+Pruebas+de+Parentesco.">
   </a>
 </p>
+
 
 - 🔬 Biólogo con experiencia en Biología Molecular.
 - 🧫 Estudiante de maestría en Microbiología Molecular (UNMSM).
